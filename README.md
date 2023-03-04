@@ -1,4 +1,4 @@
-Gizlilik Politikamız
+Smellify Gizlilik Politikamız
 
 Bizim uygulamamız, kullanıcıların ve cihazların kişisel veya hassas verileriyle ilgili hiçbir bilgi toplamamaktadır. Uygulamamız her yaştan insanın kullanımına uygun olduğu için, bu verilerin toplanması veya işlenmesi hiçbir zaman gerekli değildir.
 
