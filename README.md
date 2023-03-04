@@ -7,3 +7,6 @@ Uygulamamız sadece genel kullanıcı bilgilerini toplar ve bu bilgileri istatis
 Uygulamamızın kullanımı sırasında, kullanıcıların kişisel bilgilerini korumak için gerekli tüm tedbirleri almaktayız. Uygulamamızın sunucuları güvenli bir veri merkezinde barındırılmaktadır ve herhangi bir izinsiz erişim veya veri kaybını önlemek için gerekli güvenlik önlemleri alınmaktadır.
 
 Bu gizlilik politikası, uygulamamızı kullanırken kişisel bilgilerinizi korumak için gereken tüm bilgileri sağlar. Herhangi bir sorunuz veya endişeniz varsa, lütfen bize ulaşın.
+
+mail: wdaydreaminart@gmail.com
+tel: +905511235818
