@@ -8,4 +8,4 @@ Uygulamamızın kullanımı sırasında, kullanıcıların kişisel bilgilerini 
 
 Bu gizlilik politikası, uygulamamızı kullanırken kişisel bilgilerinizi korumak için gereken tüm bilgileri sağlar. Herhangi bir sorunuz veya endişeniz varsa, lütfen bize ulaşın.
 
-e-mail: wdaydreaminart@gmail.com
+E-mail: wdaydreaminart@gmail.com
